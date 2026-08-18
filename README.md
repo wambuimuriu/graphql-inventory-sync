@@ -1,6 +1,9 @@
 # GraphQL Inventory Sync
 Northstar Retail Co. | The Meridian Pivot — Sprint 2
 
+## Live Demo
+https://graphql-inventory-sync.onrender.com
+
 A GraphQL-powered inventory sync service built with Apollo Server and Node.js.
 Exposes live stock data through a typed API, simulating a warehouse data feed
 that updates every 10 seconds.
